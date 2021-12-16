@@ -48,6 +48,7 @@
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/electron-0DBD8B.svg?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
 </p>
 <br>
