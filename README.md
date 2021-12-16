@@ -63,6 +63,6 @@
 <br>
 <br><br><br>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0king&theme=white" alt="Statistics"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0king&theme=dark" alt="Statistics"/>
 </p>
 <br>
