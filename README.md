@@ -32,10 +32,8 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/google_cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-" alt="AWS">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-
 <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 </p>
 <br>
@@ -65,8 +63,6 @@
 <br>
 <br><br><br>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0king&theme=white-red" alt="Statistics"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0king&theme=white" alt="Statistics"/>
 </p>
-
-
 <br>
